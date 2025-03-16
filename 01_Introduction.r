@@ -3,7 +3,8 @@
 # R is free and open source.
 # R is general purpose language as well.
 # R is created from S and further used to create S+. Both S and S+ are not open source. 
-# R is sometime called GNU-'S' to reflect its open source nature.
+# R i
+s sometime called GNU-'S' to reflect its open source nature.
 # Best in class visualizations.
 # R has massive of packages.
 # R is interactive programming language (compiled) .
@@ -98,3 +99,4 @@ df
 
 list_all<-list(vector_num,array_9x3,matrix_9x3);
 list_all
+
