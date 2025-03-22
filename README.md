@@ -1,2 +1,4 @@
 # R-Basic
-An introduction and Basic of R
+An introduction and basics of R
+<hr>
+- PraQar
