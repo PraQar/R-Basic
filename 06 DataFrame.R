@@ -8,6 +8,9 @@
 # - Under the hood, dataframes are list.
 # - merge , setdiff, union , intersect are functions that perform 
 # - specific operations
+# -- Data frames can have only one element in each cell.
+# -- Each column should be named. 
+# -- Each column should consist of elements of the same data type.
 ###############################################################################
 
 #create a data frame
