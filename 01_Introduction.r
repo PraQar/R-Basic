@@ -3,8 +3,7 @@
 # R is free and open source.
 # R is general purpose language as well.
 # R is created from S and further used to create S+. Both S and S+ are not open source. 
-# R i
-s sometime called GNU-'S' to reflect its open source nature.
+# R is sometime called GNU-'S' to reflect its open source nature.
 # Best in class visualizations.
 # R has massive of packages.
 # R is interactive programming language (compiled) .
@@ -69,6 +68,11 @@ s sometime called GNU-'S' to reflect its open source nature.
 # Vector Example
 # y <- vector(length=2); or 
 # y <- c(1,2); 
+# names(y) <- c(x_axis,y_axis) #naming each element of vectors
+# y
+# output
+# x_axis    y_axis
+# 1         2
  
 # Vectors 
 # - data elements of same data type
